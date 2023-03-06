@@ -9,7 +9,7 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=ammaarkhan&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-ammaarkhan.vercel.app/api?username=ammaarkhan&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ###
 
