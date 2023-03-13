@@ -5,7 +5,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on [Ace Chatbot](https://github.com/ammaarkhan/Chatbot)<br>🤵‍♂️ Actively searching for Co-op/Internship Opportunities<br>🌱 I’m currently learning Deep Learning Specialization (Coursera)<br>🤝 I’m looking to collaborate on ML Projects<br>⚡ Fun fact: I have a super rare blood type
+🔭 I’m currently working on: [Ace Chatbot](https://github.com/ammaarkhan/Chatbot)<br>🤵‍♂️ Actively searching for Co-op/Internship Opportunities in Canada and US<br>🌱 I’m currently learning Deep Learning Specialization ([Coursera](https://www.coursera.org/specializations/deep-learning))<br>🤝 I’m looking to collaborate on ML Projects<br>⚡ Fun fact: I have a super rare blood type
 
 ###
 
