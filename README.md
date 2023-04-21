@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammaar</h1>
-<h3 align="center">An Undergrad CS Student Passionate about ML and Mobile App Development</h3>
+<h3 align="center">Undergrad CS Student at UBC Passionate about ML and Mobile App Development</h3>
 
 ### 
 
