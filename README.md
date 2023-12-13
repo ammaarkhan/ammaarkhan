@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ammaar</h1>
-<h3 align="center">CS Student @ UBC Passionate about ML and Software Development</h3>
+<h3 align="center">CS Student @ UBC Passionate about AI and Software Development</h3>
 
 ### 
 
 <div align="center">
 
-🔭 I’m currently working on: Brokol and Jobbox<br>🤵‍♂️ Actively searching for Co-op/Internship Opportunities in Canada and US<br>🌱 I’m currently learning Deep Learning Specialization ([Coursera](https://www.coursera.org/specializations/deep-learning))<br>🤝 I’m looking to collaborate on ML Projects<br>⚡ Fun fact: I have a super rare blood type
+🔭 I’m currently working on: BROKOL<br>🌱 I’m currently learning how to sell a product<br>🤝 I’m looking to collaborate on ML projects<br>⚡ Fun fact: I have a super rare blood type
 
 ###
 
