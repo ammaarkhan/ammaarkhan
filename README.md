@@ -5,7 +5,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on: BROKOL<br>🌱 I’m currently learning how to sell a product<br>🤝 I’m looking to collaborate on ML projects<br>⚡ Fun fact: I have a super rare blood type
+🔭 I’m currently working on: BROKOL<br>🌱 I’m currently learning how to build a product<br>🤝 I’m looking to collaborate on ML projects<br>⚡ Fun fact: I have a super rare blood type
 
 ###
 
