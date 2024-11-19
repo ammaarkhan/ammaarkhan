@@ -5,7 +5,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on: BROKOL<br>🌱 I’m currently learning how to build a product<br>⚡ Fun fact: I have a super rare blood type<br>📚 I'm currently reading The Lean Startup by Eric Ries
+🔭 I’m currently working on: FeedMyADHD<br>🌱 I’m currently learning how to build a product<br>⚡ Fun fact: I have a super rare blood type<br>📚 I'm currently reading The Lean Startup by Eric Ries
 
 ###
 
