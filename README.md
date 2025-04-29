@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ammaar</h1>
-<h3 align="center">CS Student @ UBC Passionate about Solving Problems</h3>
+<h3 align="center">
+  Co-Founder @ 
+  <a href="https://www.feedmyadhd.com">FeedMyADHD</a> & 
+  <a href="https://adhdweasel.substack.com">The ADHD Weasel</a>
+</h3>
 
 ### 
 
 <div align="center">
 
-🔭 I’m currently working on: FeedMyADHD<br>🌱 I’m currently learning how to build a product<br>⚡ Fun fact: I have a super rare blood type<br>📚 I'm currently reading The Lean Startup by Eric Ries
+🌱 I’m currently learning how to grow a newsletter and build in public<br>⚡ Fun fact: I have a super rare blood type<br>📚 I'm currently reading Your Oxygen Mask First & ADHD 2.0
 
 ###
 
