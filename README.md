@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ammaar</h1>
 <h3 align="center">
-  Co-Founder @ 
-  <a href="https://www.feedmyadhd.com">FeedMyADHD</a> & 
+  Co-Founder @
   <a href="https://adhdweasel.substack.com">The ADHD Weasel</a>
 </h3>
 
