@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🌱 I’m currently learning how to grow a newsletter and build in public<br>⚡ Fun fact: I have a super rare blood type<br>📚 I'm currently reading Your Oxygen Mask First & ADHD 2.0
+🌱 I’m currently learning how to grow a newsletter <br>⚡ Fun fact: I have a super rare blood type<br>📚 I'm currently reading ADHD 2.0
 
 ###
 
